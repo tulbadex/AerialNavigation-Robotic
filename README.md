@@ -3,7 +3,19 @@
 # PythonRobotics
 Python codes for robotics algorithm.
 
-1. Install the required libraries.
+1. Install virtual environment
+
+   ```terminal
+   python -m venv env 
+   ```
+
+2. Activate virtual environment on window
+
+   ```terminal
+   env\Scripts\activate
+   ```
+
+3. Install the required libraries.
 
 - using conda :
 
